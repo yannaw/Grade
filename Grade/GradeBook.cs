@@ -13,6 +13,7 @@ namespace Grade
         {
             name = "empty";
             grades = new List<float>();
+
         }
 
         public GradeStats ComputeStats()
